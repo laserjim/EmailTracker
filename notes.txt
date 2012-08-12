@@ -1,0 +1,5 @@
+Notes.txt
+
+Strategy: check url for
+Compose url
+https://mail.google.com/mail/u/0/#compose
