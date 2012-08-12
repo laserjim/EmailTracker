@@ -1,0 +1,10 @@
+{
+  "name": "Email Tracker",
+  "version": "20120811",
+  "manifest_version": 2,
+  "description": "Adds tracking pixels to outgoing gmails.",
+  "permissions": [
+    "https://mail.google.com/"
+  ]
+}
+
